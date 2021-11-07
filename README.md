@@ -2,8 +2,9 @@
 
 ## eShopping Uygulaması Ekran Görüntüsü
 
-![Github1](https://user-images.githubusercontent.com/75077248/138744888-15cc5a09-2cec-4718-ad1f-af6006c2b6af.png)
-![Github2](https://user-images.githubusercontent.com/75077248/138744940-961ffa01-023d-4efe-99bb-8d1a354f10f0.png)
+![Dribbble shot HD - 1](https://user-images.githubusercontent.com/75077248/140647316-f62566e5-b730-4571-ac37-35ffdbe3b16f.png)
+
+![Dribbble shot HD - 2](https://user-images.githubusercontent.com/75077248/140647326-8379a359-0e4b-4811-9801-0743b02acbbe.png)
 
 ## Uygulama Hakkında
 
