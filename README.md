@@ -1,10 +1,10 @@
 # Flutter eShopping UI Design Uygulaması
 
-## eShopping Uygulaması Ekran Görüntüsü
+## eShopping Uygulaması Ekran Görüntüleri
 
-![Dribbble shot HD - 1](https://user-images.githubusercontent.com/75077248/140647316-f62566e5-b730-4571-ac37-35ffdbe3b16f.png)
+![Dribbble shot HD - 3](https://user-images.githubusercontent.com/75077248/140647807-499c2c97-af73-4652-b066-7f5aedd920f8.png)
 
-![Dribbble shot HD - 2](https://user-images.githubusercontent.com/75077248/140647326-8379a359-0e4b-4811-9801-0743b02acbbe.png)
+![Dribbble shot HD - 4](https://user-images.githubusercontent.com/75077248/140647820-fc1497bb-a5b2-4fe5-9699-e40850123a3d.png)
 
 ## Uygulama Hakkında
 
