@@ -12,7 +12,7 @@
 - Assets, constant, models ve pages şeklinde klasörleme yapısı oluşturularak business, design ve model kısımları ayrılmıştır.
 - Singleton yapısı kullanılarak colors, icons, sizes gibi sınıfların bir kere oluşturulup bütün sayfalarda erişimi sağlanmıştır. Böylece anlaşılır bir tasarım deseni uygulanmıştır.
 - Bütün widgetlar kullanıldıkları sayfalarda ayrı klasörlerde tutularak düzenlenmesi ve uygulanması kolaylaştırılmıştır.
-- Fotoğraflar NetworkImage ile 'unsplash' sitesinden çekilmiştir. Diğer tüm bilgilendirici metinler ise fotoğraflarla birlikte oluşturulan modellemeden çekilmiştir.
+- Fotoğraflar NetworkImage ile 'unsplash' sitesinden çekilmiştir. Diğer tüm bilgi metinleri ise fotoğraflarla birlikte oluşturulan modellemeden çekilmiştir.
 - Icon'lar için 'font_awesome_flutter' ve slider içinse 'carousel_slider' pluginleri eklenmiştir.
 
 - Diğer tasarımlarım için https://dribbble.com/samedaydin hesabımı ziyaret edebilirsiniz.
